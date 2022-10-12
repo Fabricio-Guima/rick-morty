@@ -42,4 +42,11 @@ export default {
   grid-gap: 3rem;
   margin: 3rem 0;
 }
+
+@media only screen and (max-width: 768px) {
+  .characters {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
 </style>

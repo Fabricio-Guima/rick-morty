@@ -1,6 +1,6 @@
 # rick-morty
 
-Pequeno projeto para praticar o "flow" do vue 3
+Pequeno projeto para praticar o "flow" do vue 3 consumindo uma api
 
 ## O que você encontrará aqui?
 
@@ -27,4 +27,6 @@ npm run serve
 npm run build
 ```
 
+## Link no ar
+- https://ricky-morty-vu3.netlify.app/
 

@@ -1,5 +1,17 @@
 # rick-morty
 
+Pequeno projeto para praticar o "flow" do vue 3 consumindo uma api
+
+## O que você encontrará aqui?
+
+- Uso de componentes
+- css (scss)
+- vuex
+- props
+- computeds
+
+
+
 ## Project setup
 ```
 npm install
@@ -15,5 +27,6 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Link no ar
+- https://ricky-morty-vu3.netlify.app/
+
